@@ -1,112 +1,171 @@
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  <b>Linux · Dev · Future Cybersecurity</b>
+</p>
+
+---
+
 # Sobre mí
 
 Desarrollador en constante aprendizaje, apasionado por la tecnología, el código y la mejora continua.  
-Me especializo en **Odoo (Community y Enterprise)** y en el desarrollo con **Python, Java, Ruby y JavaScript**, creando soluciones a medida que optimizan procesos de negocio y se integran con otros sistemas.
+Me especializo en **Odoo (Community y Enterprise)** y en el desarrollo con **Python, Java, Ruby y JavaScript**, creando soluciones a medida que optimizan procesos de negocio e integran múltiples sistemas.
 
-Disfruto trabajar tanto en la parte técnica como funcional: análisis, diseño, desarrollo, implementación, soporte y documentación.
-
----
-
-## Experiencia en Odoo
-
-| Ítem | Detalle |
-|------|---------|
-| **Versiones** | Odoo **12, 15, 16, 17 y 18** (Community y Enterprise) |
-| **Implementación** | Configuración y personalización de instancias Odoo según necesidades del cliente |
-| **Desarrollo** | Módulos personalizados en **Python**, vistas y plantillas **XML**, reportes **QWeb** (PDF, Excel) |
-| **Integraciones** | Integración con sistemas externos vía **API REST** y **XML-RPC** |
-| **Migraciones** | Migración de datos y módulos entre distintas versiones de Odoo |
-| **Módulos clave** | Ventas, Compras, Inventario, Contabilidad, CRM, RRHH, Fabricación |
-| **Automatización** | Acciones de servidor, métodos programados (cron), flujos de negocio personalizados |
-| **Rendimiento** | Optimización de carga de vistas, consultas SQL y desempeño de backend |
-| **Documentación** | Documentación técnica y funcional de desarrollos e implementaciones |
+Me gusta trabajar tanto en la parte **técnica** como **funcional**: análisis, diseño, desarrollo, implementación, soporte y documentación.  
+Actualmente estoy profundizando en **ciberseguridad**, buscando unir el mundo del desarrollo con las buenas prácticas de protección de la información.
 
 ---
 
-## Stack de desarrollo
+## 🚀 Experiencia en Odoo
+
+| Ítem              | Detalle                                                                 |
+|-------------------|-------------------------------------------------------------------------|
+| **Versiones**     | Odoo **12, 15, 16, 17 y 18** (Community & Enterprise)                   |
+| **Implementación**| Configuración y personalización según procesos del cliente              |
+| **Desarrollo**    | Módulos en **Python**, vistas/plantillas **XML**, reportes **QWeb** (PDF, Excel) |
+| **Integraciones** | Conexión con sistemas externos vía **API REST** y **XML-RPC**          |
+| **Migraciones**   | Migración de datos y adaptación de módulos entre versiones              |
+| **Módulos clave** | Ventas, Compras, Inventario, Contabilidad, CRM, RRHH, Fabricación, POS |
+| **Automatización**| Acciones de servidor, métodos programados (cron) y flujos personalizados|
+| **Rendimiento**   | Optimización de vistas, consultas SQL y desempeño de backend            |
+
+---
+
+## 💻 Stack de desarrollo
 
 ### Lenguajes de programación
 
-| Lenguaje    | Uso principal |
-|------------|---------------|
-| **Python** | Módulos Odoo, scripts de automatización, migraciones, utilidades backend |
-| **Java**   | Servicios backend, herramientas de integración, aplicaciones empresariales |
-| **Ruby**   | Scripts y herramientas internas, integraciones específicas |
-| **JavaScript** | Personalización de vistas Odoo, widgets, funcionalidades interactivas en frontend |
-| **SQL / MySQL / PostgreSQL** | Consultas avanzadas, funciones, vistas, optimización de rendimiento |
+| Lenguaje    | Uso principal                                                                 |
+|-------------|-------------------------------------------------------------------------------|
+| **Python**  | Backend en Odoo, scripts de automatización, migraciones, utilidades          |
+| **Java**    | Servicios backend y herramientas internas                                    |
+| **Ruby**    | Scripts y herramientas específicas                                           |
+| **JavaScript** | Widgets, lógica frontend y personalización de vistas                      |
+| **SQL / MySQL / PostgreSQL** | Consultas avanzadas, vistas, funciones, optimización        |
 
 ### Tecnologías y frameworks
 
-| Tecnología / Framework | Descripción |
-|------------------------|-------------|
-| **HTML / CSS / XML / JSON** | Estructura, estilo e intercambio de datos |
-| **Bootstrap**          | Interfaces responsivas y modernas |
-| **React**              | Construcción de interfaces SPA cuando el proyecto lo requiere |
-| **API REST / XML-RPC** | Integraciones con e-commerce, ERP, CRM, bancos, etc. |
+| Tecnología / Framework | Descripción                                                       |
+|------------------------|-------------------------------------------------------------------|
+| **HTML / CSS / XML / JSON** | Base para estructuras, estilos e intercambio de datos      |
+| **Bootstrap**          | Interfaces responsivas y modernas                                |
+| **React**              | SPA e interfaces interactivas cuando el proyecto lo requiere     |
+| **API REST / XML-RPC** | Integraciones con ERPs, CRMs, bancos, pasarelas, etc.            |
+| **FastAPI / Flask**    | APIs ligeras y servicios de integración                          |
 
 ---
 
-## Reportes e integraciones
+## 📊 Reportes, integraciones y automatización
 
-| Área       | Detalles |
-|------------|----------|
-| **Reportes PDF** | Creación de reportes personalizados con **QWeb** y estilos **CSS** adaptados |
-| **Reportes Excel** | Generación desde wizards y modelos Odoo (agrupaciones, totales, filtros) |
-| **Reportes XML** | Integraciones con SRI, sistemas contables y entidades externas |
-| **Exportaciones** | Exportaciones masivas de datos e informes parametrizables |
-| **Integraciones** | Consumo y creación de **API REST** y **XML-RPC** |
-| **Automatización** | Tareas recurrentes con **cron jobs** y envío automático de reportes / notificaciones por email |
-| **Servicios externos** | Integración con pasarelas de pago, facturación electrónica y sistemas de logística |
+| Área                 | Detalles                                                             |
+|----------------------|----------------------------------------------------------------------|
+| **PDF (QWeb)**       | Diseños personalizados con CSS, para facturas, estados de cuenta, etc. |
+| **Excel**            | Wizards y reportes con agrupaciones, totales y filtros avanzados    |
+| **XML / TXT**        | Integraciones con entidades externas y sistemas tributarios         |
+| **APIs**             | Consumo y publicación de **API REST** y servicios de integración    |
+| **Automatización**   | Cron jobs, envío de reportes y notificaciones automáticas por email |
 
 ---
 
-## Base de datos, infraestructura y DevOps
+## 🐧 Linux, infraestructura & DevOps
 
-| Área              | Detalles |
-|-------------------|----------|
-| **PostgreSQL**    | Consultas, vistas, funciones, índices y optimización de consultas |
-| **Servidores Linux** | Administración de entornos de producción (Ubuntu, Debian, CentOS) |
-| **Docker / Docker Compose** | Despliegues, entornos de desarrollo y pruebas |
-| **Control de versiones** | Uso de **GitHub**, **GitLab** y **Bitbucket** |
-| **CI/CD**         | Pipelines de integración y despliegue continuo para proyectos Odoo |
-
----
-
-## Competencias funcionales
-
-| Competencia | Descripción |
-|------------|-------------|
-| **Requerimientos** | Levantamiento y análisis de procesos de negocio |
-| **Soporte** | Capacitación y soporte funcional a usuarios finales |
-| **Diseño de procesos** | Diseño de flujos de trabajo eficientes y adaptados al cliente |
-| **Multiempresa / Multimoneda** | Experiencia en entornos complejos con varias compañías y monedas |
-| **Seguridad** | Gestión de permisos, grupos y reglas de acceso en Odoo |
-| **Comunicación** | Trato con clientes nacionales e internacionales |
-| **Trabajo en equipo** | Colaboración en equipos remotos y multidisciplinarios |
-| **Gestión del tiempo** | Priorización de tareas y cumplimiento de plazos |
-| **Mejora continua** | Orientación a resultados y optimización constante de soluciones |
+| Área                  | Detalles                                                            |
+|-----------------------|---------------------------------------------------------------------|
+| **Servidores Linux**  | Administración de entornos de desarrollo, pruebas y producción      |
+| **PostgreSQL**        | Modelado, índices, funciones y optimización de consultas            |
+| **Docker / Docker Compose** | Entornos reproducibles y despliegues aislados               |
+| **Control de versiones** | Flujo de trabajo con Git (branching, PR, code review)          |
+| **CI/CD**             | Pipelines para test y despliegue continuo (especialmente Odoo)     |
 
 ---
 
-## Programas y herramientas
+## 🔐 Camino a la ciberseguridad
 
-| Tipo       | Herramientas |
-|------------|--------------|
-| **IDEs / Editores** | PyCharm Studio, Visual Studio Code, Atom, NetBeans, Android Studio |
-| **Ofimática** | Microsoft Word, PowerPoint, Excel |
+Actualmente enfocado en:
 
----
-
-## Sistemas operativos
-
-| Sistema operativo |
-|-------------------|
-| **Linux** |
-| **Windows** |
+- Fundamentos de **seguridad ofensiva y defensiva**
+- Hardening de servidores **Linux**
+- Buenas prácticas de seguridad en **APIs** y aplicaciones web
+- Gestión de vulnerabilidades y monitoreo
 
 ---
 
-### Conecta conmigo
+## 🧰 Lenguajes y herramientas
 
-[![LinkedIn - Michael Silva Salvador](https://img.shields.io/badge/LinkedIn-Michael%20Silva%20Salvador-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-silva-salvador)
+<p align="center">
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="48" height="48"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" alt="Odoo" width="48" height="48"/>
+  </a>
+</p>
 
+---
+
+## 📈 Stats Personal
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xxMichaelSilvaxx&show_icons=true&theme=radical" alt="GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxMichaelSilvaxx&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxMichaelSilvaxx&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Stats Laboral
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xMichaelSilvax&show_icons=true&theme=radical" alt="GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMichaelSilvax&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xMichaelSilvax&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Conecta conmigo
+
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contacto-red?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
