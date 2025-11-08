@@ -143,22 +143,6 @@ Actualmente enfocado en:
 
 ---
 
-## 📈 Stats Laboral
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xMichaelSilvax&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMichaelSilvax&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xMichaelSilvax&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🤝 Conecta conmigo
 
 <p align="center">
