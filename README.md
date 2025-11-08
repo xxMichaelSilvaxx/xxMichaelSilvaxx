@@ -106,10 +106,7 @@ Disfruto trabajar tanto en la parte técnica como funcional: análisis, diseño,
 
 ---
 
-## Portafolio visual / Imágenes
+### Conecta conmigo
 
-> Sección pensada para agregar capturas de pantalla de proyectos, vistas personalizadas, reportes o dashboards en Odoo.
+[![LinkedIn - Michael Silva Salvador](https://img.shields.io/badge/LinkedIn-Michael%20Silva%20Salvador-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-silva-salvador)
 
-Ejemplo de referencia:
-
-```markdown
