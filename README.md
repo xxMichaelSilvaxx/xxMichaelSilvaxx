@@ -1,112 +1,115 @@
 # Sobre mí
 
-Desarrollador en constante aprendizaje, apasionado por la tecnología y el desarrollo de software.  
-Me especializo en **Odoo (Community y Enterprise)**, creando soluciones a medida que mejoran y automatizan
-los procesos de negocio de los clientes. Disfruto trabajar tanto en la parte técnica como funcional,
-acompañando todo el ciclo: análisis, desarrollo, implementación y soporte.
+Desarrollador en constante aprendizaje, apasionado por la tecnología, el código y la mejora continua.  
+Me especializo en **Odoo (Community y Enterprise)** y en el desarrollo con **Python, Java, Ruby y JavaScript**, creando soluciones a medida que optimizan procesos de negocio y se integran con otros sistemas.
+
+Disfruto trabajar tanto en la parte técnica como funcional: análisis, diseño, desarrollo, implementación, soporte y documentación.
 
 ---
 
 ## Experiencia en Odoo
 
-- Implementación, configuración y personalización de **Odoo Community** y **Odoo Enterprise**.
-- Desarrollo de **módulos personalizados en Python**.
-- Creación y modificación de **vistas y plantillas XML**.
-- Desarrollo de **reportes QWeb** en PDF y Excel.
-- Generación de **reportes XML** para integraciones y exportaciones.
-- Personalización de vistas, widgets y funcionalidades interactivas con **JavaScript**.
-- Integración de Odoo con sistemas externos mediante **API REST** y **XML-RPC**.
-- Gestión de **migraciones entre versiones de Odoo** (datos y módulos).
-- Configuración avanzada de módulos clave:
-  - Ventas, Compras, Inventario
-  - Contabilidad, CRM, RRHH
-  - Fabricación
-- Personalización de flujos de negocio y automatización de procesos con **acciones de servidor** y **métodos programados**.
-- Diseño e implementación de **reportes dinámicos** con filtros y parámetros personalizados.
-- Optimización de rendimiento en Odoo (carga de vistas, consultas SQL, backend).
-- Documentación técnica y funcional de desarrollos e implementaciones.
+| Ítem | Detalle |
+|------|---------|
+| **Versiones** | Odoo **12, 15, 16, 17 y 18** (Community y Enterprise) |
+| **Implementación** | Configuración y personalización de instancias Odoo según necesidades del cliente |
+| **Desarrollo** | Módulos personalizados en **Python**, vistas y plantillas **XML**, reportes **QWeb** (PDF, Excel) |
+| **Integraciones** | Integración con sistemas externos vía **API REST** y **XML-RPC** |
+| **Migraciones** | Migración de datos y módulos entre distintas versiones de Odoo |
+| **Módulos clave** | Ventas, Compras, Inventario, Contabilidad, CRM, RRHH, Fabricación |
+| **Automatización** | Acciones de servidor, métodos programados (cron), flujos de negocio personalizados |
+| **Rendimiento** | Optimización de carga de vistas, consultas SQL y desempeño de backend |
+| **Documentación** | Documentación técnica y funcional de desarrollos e implementaciones |
+
+---
+
+## Stack de desarrollo
+
+### Lenguajes de programación
+
+| Lenguaje    | Uso principal |
+|------------|---------------|
+| **Python** | Módulos Odoo, scripts de automatización, migraciones, utilidades backend |
+| **Java**   | Servicios backend, herramientas de integración, aplicaciones empresariales |
+| **Ruby**   | Scripts y herramientas internas, integraciones específicas |
+| **JavaScript** | Personalización de vistas Odoo, widgets, funcionalidades interactivas en frontend |
+| **SQL / MySQL / PostgreSQL** | Consultas avanzadas, funciones, vistas, optimización de rendimiento |
+
+### Tecnologías y frameworks
+
+| Tecnología / Framework | Descripción |
+|------------------------|-------------|
+| **HTML / CSS / XML / JSON** | Estructura, estilo e intercambio de datos |
+| **Bootstrap**          | Interfaces responsivas y modernas |
+| **React**              | Construcción de interfaces SPA cuando el proyecto lo requiere |
+| **API REST / XML-RPC** | Integraciones con e-commerce, ERP, CRM, bancos, etc. |
 
 ---
 
 ## Reportes e integraciones
 
-- Creación de reportes PDF personalizados con **QWeb** y estilos **CSS** adaptados.
-- Generación de reportes **Excel** desde wizards y modelos Odoo (agrupaciones, totales, etc.).
-- Reportes **XML** para integraciones con entidades externas (SRI, sistemas contables, etc.).
-- Exportaciones masivas de datos y generación de informes parametrizables.
-- Consumo y creación de **API REST** para integraciones con plataformas externas  
-  (e-commerce, ERP, CRM, bancos, entre otros).
-- Automatización de tareas recurrentes con **cron jobs**.
-- Envío automatizado de reportes y notificaciones por email desde Odoo.
-- Integración con pasarelas de pago, facturación electrónica y sistemas de logística.
+| Área       | Detalles |
+|------------|----------|
+| **Reportes PDF** | Creación de reportes personalizados con **QWeb** y estilos **CSS** adaptados |
+| **Reportes Excel** | Generación desde wizards y modelos Odoo (agrupaciones, totales, filtros) |
+| **Reportes XML** | Integraciones con SRI, sistemas contables y entidades externas |
+| **Exportaciones** | Exportaciones masivas de datos e informes parametrizables |
+| **Integraciones** | Consumo y creación de **API REST** y **XML-RPC** |
+| **Automatización** | Tareas recurrentes con **cron jobs** y envío automático de reportes / notificaciones por email |
+| **Servicios externos** | Integración con pasarelas de pago, facturación electrónica y sistemas de logística |
 
 ---
 
 ## Base de datos, infraestructura y DevOps
 
-- Conocimientos en **PostgreSQL**:
-  - Consultas, vistas, funciones y optimización.
-- Administración de servidores **Linux** (Ubuntu, Debian, CentOS) para entornos Odoo en producción.
-- Manejo de **Docker** y **Docker Compose** para despliegues y entornos de desarrollo.
-- Control de versiones con **GitHub**, **GitLab** y **Bitbucket**.
-- Experiencia en **CI/CD** para despliegue continuo de proyectos Odoo.
+| Área              | Detalles |
+|-------------------|----------|
+| **PostgreSQL**    | Consultas, vistas, funciones, índices y optimización de consultas |
+| **Servidores Linux** | Administración de entornos de producción (Ubuntu, Debian, CentOS) |
+| **Docker / Docker Compose** | Despliegues, entornos de desarrollo y pruebas |
+| **Control de versiones** | Uso de **GitHub**, **GitLab** y **Bitbucket** |
+| **CI/CD**         | Pipelines de integración y despliegue continuo para proyectos Odoo |
 
 ---
 
 ## Competencias funcionales
 
-- Levantamiento de requerimientos y análisis de procesos de negocio.
-- Capacitación y soporte funcional a usuarios finales.
-- Diseño de flujos de trabajo eficientes adaptados al cliente.
-- Experiencia en entornos multicompañía y multi-moneda.
-- Gestión de permisos y seguridad en Odoo.
-- Comunicación efectiva con clientes nacionales e internacionales.
-- Trabajo en equipo y colaboración en entornos remotos.
-- Gestión del tiempo y priorización de tareas.
-- Orientación a resultados y mejora continua.
-
----
-
-## Lenguajes
-
-- Python  
-- Java  
-- Ruby  
-- JavaScript  
-- MySQL  
-- PostgreSQL  
-
----
-
-## Complementos / Tecnologías
-
-- HTML  
-- XML  
-- CSS  
-- JSON  
-- Bootstrap  
-- React  
+| Competencia | Descripción |
+|------------|-------------|
+| **Requerimientos** | Levantamiento y análisis de procesos de negocio |
+| **Soporte** | Capacitación y soporte funcional a usuarios finales |
+| **Diseño de procesos** | Diseño de flujos de trabajo eficientes y adaptados al cliente |
+| **Multiempresa / Multimoneda** | Experiencia en entornos complejos con varias compañías y monedas |
+| **Seguridad** | Gestión de permisos, grupos y reglas de acceso en Odoo |
+| **Comunicación** | Trato con clientes nacionales e internacionales |
+| **Trabajo en equipo** | Colaboración en equipos remotos y multidisciplinarios |
+| **Gestión del tiempo** | Priorización de tareas y cumplimiento de plazos |
+| **Mejora continua** | Orientación a resultados y optimización constante de soluciones |
 
 ---
 
 ## Programas y herramientas
 
-- PyCharm Studio  
-- Visual Studio Code  
-- Atom  
-- NetBeans  
-- Android Studio  
-- Microsoft Word  
-- Microsoft PowerPoint  
-- Microsoft Excel  
+| Tipo       | Herramientas |
+|------------|--------------|
+| **IDEs / Editores** | PyCharm Studio, Visual Studio Code, Atom, NetBeans, Android Studio |
+| **Ofimática** | Microsoft Word, PowerPoint, Excel |
 
 ---
 
 ## Sistemas operativos
 
-- Linux  
-- Windows  
+| Sistema operativo |
+|-------------------|
+| **Linux** |
+| **Windows** |
 
 ---
 
-_Siempre abierto a nuevos retos, colaboraciones y oportunidades para seguir creciendo como desarrollador especializado en Odoo y tecnologías relacionadas._
+## Portafolio visual / Imágenes
+
+> Sección pensada para agregar capturas de pantalla de proyectos, vistas personalizadas, reportes o dashboards en Odoo.
+
+Ejemplo de referencia:
+
+```markdown
